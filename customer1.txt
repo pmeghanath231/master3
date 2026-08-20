@@ -1,2 +1,3 @@
 custmer:1
 product : headset
+product :laptop
